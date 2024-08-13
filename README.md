@@ -38,7 +38,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/srikxcipher?tab=repositories&q=&type=&language=shell&sort=" target="_Shell_Script" title="View my Shell Scripting repo(s)">
+        <a href=https://github.com/srikxcipher/Linux/tree/16efaf575449bea09ec28639dda9abbf5c0b17e9/Shell_Script"&sort=" target="_blank" title="View my Shell Scripting repo(s)">
           <img src="Assets/bash-plain.svg" alt="bash" width="40" height="40"/>
         </a>
       </td>
