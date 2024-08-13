@@ -33,8 +33,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/srikxcipher/" target="_blank" title="View my repos">
-          <img src="Assets/" alt="Add-Later" width="40" height="40"/>
+        <a href="https://github.com/srikxcipher/" target="_blank" title="View my Azure repos">
+          <img src="Assets/azure-2.svg" alt="Azure" width="40" height="40"/>
         </a>
       </td>
       <td>
