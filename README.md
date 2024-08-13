@@ -39,7 +39,7 @@
       </td>
       <td>
         <a href=https://github.com/srikxcipher/Linux/tree/16efaf575449bea09ec28639dda9abbf5c0b17e9/Shell_Script target="_blank" title="View my Shell Scripting repo(s)">
-          <img src="Assets/bash-plain.svg" alt="bash" width="40" height="40"/>
+          <img src="Assets/Linux-logo.svg" alt="bash" width="40" height="40"/>
         </a>
       </td>
       <td>
