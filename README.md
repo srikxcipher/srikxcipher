@@ -111,11 +111,7 @@
 
 ## 📈 My GitHub stats:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=srikxcipher&&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikxcipher&theme=blueberry_duo"/> |
-| --- | ---- |
 
-| <img src="https://github-profile-trophy.vercel.app/?username=srikxcipher&theme=darkhub&column=9" alt="My GitHub stats"> |
-| --- |
 | ![srikxcipher](https://github-readme-activity-graph.vercel.app/graph?username=srikxcipher&theme=react-dark) |
 
 ## ⭐ Badges:
