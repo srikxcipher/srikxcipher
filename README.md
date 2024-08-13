@@ -88,7 +88,7 @@
       </td>
       <td>
           <a href="https://x.com/Srixk_" target="_blank" title="Visit my twitter">
-            <img src="Assets/twitter-original.svg" alt="twitter" width="40" height="40"/>
+            <img src="Assets/x-2.svg" alt="X" width="40" height="40"/>
           </a>
       </td>
       <td>
