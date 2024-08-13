@@ -19,7 +19,7 @@
       </td>
       <td>
         <a href="https://github.com/srikxcipher/" target="_blank" title="View my repo(s)"> 
-          <img src="Assets/" alt="Add-Later" width="40" height="40"/> 
+          <img src="Assets/devops-2.svg" alt="DevOps" width="40" height="40"/> 
         </a>
       </td>
       <td>
