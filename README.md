@@ -43,20 +43,11 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/srikxcipher?tab=repositories&q=&type=&language=java&sort=" target="_blank" title="View my Java repo(s)">
+        <a href="https://github.com/srikxcipher/Java--DSA target="_blank" title="View my Java repo(s)">
           <img src="Assets/java-original.svg" alt="java" width="40" height="40"/>
         </a>
       </td>
-      <td>
-        <a href="https://github.com/srikxcipher?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
-          <img src="Assets/r-original.svg" alt="r" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/srikxcipher?tab=repositories&q=&type=&language=r&sort=" target="_blank" title="View my R programming repo(s)">
-          <img src="Assets/rstudio-original.svg" alt="r-studio" width="40" height="40"/>
-        </a>
-      </td>
+      
       <td>
         <a href="" target="_blank" title="View my Python repo(s)">
           <img src="Assets/python-original.svg" alt="python" width="40" height="40"/>
