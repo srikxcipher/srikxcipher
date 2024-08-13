@@ -48,8 +48,8 @@
         </a>
       </td>
        <td>
-        <a href="https://github.com/srikxcipher" target="_blank" title="View my --- (s)">
-          <img src="Assets/" alt="None-Add-Later" width="40" height="40"/>
+        <a href="https://github.com/srikxcipher" target="_blank" title="View my AWS repo(s)">
+          <img src="Assets/amazon-web-services-2.svg" alt="None-Add-Later" width="40" height="40"/>
         </a>
       </td>
       <td>
