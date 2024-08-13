@@ -18,8 +18,8 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/srikxcipher?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank" title="View my C++ Programming repo(s)"> 
-          <img src="Assets/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+        <a href="https://github.com/srikxcipher/" target="_blank" title="View my repo(s)"> 
+          <img src="Assets/" alt="Add-Later" width="40" height="40"/> 
         </a>
       </td>
       <td>
@@ -34,7 +34,7 @@
       </td>
       <td>
         <a href="https://github.com/srikxcipher/" target="_blank" title="View my repos">
-          <img src="Assets/markdown-original.svg" alt="markdown" width="40" height="40"/>
+          <img src="Assets/" alt="Add-Later" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -47,7 +47,16 @@
           <img src="Assets/java-original.svg" alt="java" width="40" height="40"/>
         </a>
       </td>
-      
+       <td>
+        <a href="https://github.com/srikxcipher" target="_blank" title="View my --- (s)">
+          <img src="Assets/" alt="None-Add-Later" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/srikxcipher/Linux target="_blank" title="View my Linux repo(s)">
+          <img src="Assets/" alt="Linux" width="40" height="40"/>
+        </a>
+      </td>
       <td>
         <a href="" target="_blank" title="View my Python repo(s)">
           <img src="Assets/python-original.svg" alt="python" width="40" height="40"/>
