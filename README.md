@@ -38,7 +38,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/srikxcipher?tab=repositories&q=&type=&language=shell&sort=" target="_blank" title="View my Shell Scripting repo(s)">
+        <a href="https://github.com/srikxcipher?tab=repositories&q=&type=&language=shell&sort=" target="_Shell_Script" title="View my Shell Scripting repo(s)">
           <img src="Assets/bash-plain.svg" alt="bash" width="40" height="40"/>
         </a>
       </td>
@@ -112,7 +112,7 @@
 ## 📈 My GitHub stats:
 
 
-| ![srikxcipher](https://github-readme-activity-graph.vercel.app/graph?username=srikxcipher&theme=react-dark) |
+ ![srikxcipher](https://github-readme-activity-graph.vercel.app/graph?username=srikxcipher&theme=react-dark) 
 
 ## ⭐ Badges:
 
