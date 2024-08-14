@@ -115,7 +115,29 @@
  ![srikxcipher](https://github-readme-activity-graph.vercel.app/graph?username=srikxcipher&theme=react-dark) 
 
 ## ⭐ Badges:
+<br>
+<div style="display: inline-flex; align-items: center;">
+  <table>
+    <tr>
+      <td>
+        <h3>Check out my Badgefolio 👉🏻 </h3>
+      </td>
+      <td>
+  <a href="https://www.credly.com/users/srikant-snehit-panda" target="_blank" title="Visit my Badge-Folio" style="display: inline-flex; align-items: center;">
+    <img src="Assets/credly-svgrepo-com.svg" alt="Credly" width="40" height="40" style="margin-right: 8px;"/> 
+  </a>
+      </td>
+      <td>
+        <a href="https://api.badgr.io/public/assertions/Gy6PeBxHQW-NGqS8xkm4xw?identity__email=pandasrikant365%40gmail.com" target="_blank" title="Verify badge details" style="display: inline-flex; align-items: center;">
+    <img src="Assets/postman-output.svg" alt="Postman-API-Student-Expert" width="40" height="40" style="margin-right: 8px;"/> 
+  </a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
+<br>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -130,3 +152,4 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
