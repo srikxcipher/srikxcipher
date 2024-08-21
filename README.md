@@ -133,7 +133,7 @@
   </a>
       </td>
       <td>
-        <a href="---link---" target="_blank" title="Verify badge details" style="display: inline-flex; align-items: center;">
+        <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=F1E067DEF306D1CA79240DCCBF8A34230CFC9603EBA8B77060C68EC23E9C0F1A" target="_blank" title="Verify badge details" style="display: inline-flex; align-items: center;">
     <img src="Assets/oracle-logo-1.svg" alt="Oracle" width="40" height="40" style="margin-right: 8px;"/> 
   </a>
       </td>
