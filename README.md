@@ -128,7 +128,7 @@
   </a>
       </td>
       <td>
-        <a href="https://api.badgr.io/public/assertions/Gy6PeBxHQW-NGqS8xkm4xw?identity__email=pandasrikant365%40gmail.com" target="_blank" title="Verify badge details" style="display: inline-flex; align-items: center;">
+        <a href="https://api.badgr.io/public/assertions/Gy6PeBxHQW-NGqS8xkm4xw?identity__email=pandasrikant365%40gmail.com" target="" title="Verify badge details" style="display: inline-flex; align-items: center;">
     <img src="Assets/postman-output.svg" alt="Postman-API-Student-Expert" width="40" height="40" style="margin-right: 8px;"/> 
   </a>
       </td>
