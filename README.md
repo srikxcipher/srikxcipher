@@ -132,6 +132,11 @@
     <img src="Assets/postman-output.svg" alt="Postman-API-Student-Expert" width="40" height="40" style="margin-right: 8px;"/> 
   </a>
       </td>
+      <td>
+        <a href="---link---" target="_blank" title="Verify badge details" style="display: inline-flex; align-items: center;">
+    <img src="Assets/oracle-logo-1.svg" alt="Oracle" width="40" height="40" style="margin-right: 8px;"/> 
+  </a>
+      </td>
     </tr>
   </table>
   
