@@ -4,7 +4,8 @@
 ## Welcome to My GitHub Profile
 
 - 🎓 I'm currently pursuing B.Tech CSE at [ITER, Siksha 'O' Anusandhan University](https://www.soa.ac.in/iter/).
-- ⭐ 3rd year grad.
+- ⭐ 3rd year grad
+- ☁️ Cloud Enthusiast
 ## 💻 Tech stacks:
 
 <br/>
