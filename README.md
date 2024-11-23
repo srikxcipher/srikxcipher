@@ -34,12 +34,12 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/srikxcipher/" target="_blank" title="View my Azure repos">
+        <a href= "https://github.com/srikxcipher/srikxcipher/" target="_blank" title="View my Azure repos">
           <img src="Assets/azure-2.svg" alt="Azure" width="40" height="40"/>
         </a>
       </td>
       <td>
-        <a href=https://github.com/srikxcipher/Linux/tree/16efaf575449bea09ec28639dda9abbf5c0b17e9/Shell_Script target="_blank" title="View my Shell Scripting repo(s)">
+        <a href="https://github.com/srikxcipher/Linux/tree/16efaf575449bea09ec28639dda9abbf5c0b17e9/Shell_Script" target="_blank" title="View my Shell Scripting repo(s)">
           <img src="Assets/bash-plain.svg" alt="bash" width="40" height="40"/>
         </a>
       </td>
