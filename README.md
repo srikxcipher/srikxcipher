@@ -1,12 +1,17 @@
+<div align="center">
+  <img src="https://github.com/srikxcipher/srikxcipher/blob/52bc7d9637a225875e4d767e66f9140b5dbd9965/Assets/github-header-image.png"/>
+</div>
+<br>
+
 # Hi there <img src="Assets/Hi.gif" width="29">, I'm Srikant
 
 
-## Welcome to My GitHub Profile
+### Welcome to My GitHub Profile
 
 - 🎓 I'm currently pursuing B.Tech CSE at [ITER, Siksha 'O' Anusandhan University](https://www.soa.ac.in/iter/).
 - ⭐ 3rd year grad
 - ☁️ Cloud Enthusiast
-## 💻 Tech stacks:
+### 💻 Tech stacks:
 
 <br/>
 
@@ -75,7 +80,7 @@
   </table>
 </div>
 
-## 🌐 Connect with me:
+### 🌐 Connect with me:
 
 <br/>
 
@@ -110,12 +115,12 @@
   </table>
 </div>
 
-## 📈 My GitHub stats:
+### 📈 My GitHub stats:
 
 
  ![srikxcipher](https://github-readme-activity-graph.vercel.app/graph?username=srikxcipher&theme=react-dark) 
 
-## ⭐ Badges:
+## ⭐ Badge Wallet:
 <br>
 <div style="display: inline-flex; align-items: center;">
   <table>
