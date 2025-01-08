@@ -68,14 +68,6 @@
           <img src="Assets/python-original.svg" alt="python" width="40" height="40"/>
         </a>
       </td>
-      <td>
-        <a href="" target="_blank" title="View my html5 repo(s)">
-          <img src="Assets/html5-original.svg" alt="html5" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <img src="Assets/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-      </td>
     </tr>
   </table>
 </div>
