@@ -24,7 +24,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/srikxcipher/" target="_blank" title="View my repo(s)"> 
+        <a href="https://github.com/srikxcipher/Ansible-Zero-to-Hero" target="_blank" title="View my repo(s)"> 
           <img src="Assets/devops-2.svg" alt="DevOps" width="40" height="40"/> 
         </a>
       </td>
