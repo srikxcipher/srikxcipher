@@ -59,7 +59,7 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/srikxcipher/Linux target="_blank" title="View my Linux repo(s)">
+        <a href="https://github.com/srikxcipher/Linux" target="_blank" title="View my Linux repo(s)">
           <img src="Assets/Linux-logo.svg" alt="Linux" width="40" height="40"/>
         </a>
       </td>
