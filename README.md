@@ -19,11 +19,6 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/srikxcipher?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
-          <img src="Assets/c-original.svg" alt="c" width="40" height="40"/> 
-        </a>
-      </td>
-      <td>
         <a href="https://github.com/srikxcipher/Ansible-Zero-to-Hero" target="_blank" title="View my repo(s)"> 
           <img src="Assets/devops-2.svg" alt="DevOps" width="40" height="40"/> 
         </a>
