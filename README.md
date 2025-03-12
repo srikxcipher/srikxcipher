@@ -9,8 +9,9 @@
 ### Welcome to My GitHub Profile
 
 - 🎓 I'm currently pursuing B.Tech CSE at [ITER, Siksha 'O' Anusandhan University](https://www.soa.ac.in/iter/).
-- ⭐ 3rd year grad
-- ☁️ Cloud Enthusiast
+- 🔒 Dedicated intern with experience in creating and fine-tuning cloud infrastructure for efficiency, security, and automation. Performs well in high-pressure situations, providing out-of-the-box solutions and following industry best practices.
+
+
 ### 💻 Tech stacks:
 
 <br/>
