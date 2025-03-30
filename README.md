@@ -2,7 +2,7 @@
   <img src="https://github.com/srikxcipher/srikxcipher/blob/52bc7d9637a225875e4d767e66f9140b5dbd9965/Assets/github-header-image.png" width="100%"/>
 </div>
 
-# <div align="center">Hi there, I'm Srikant 👋</div>
+# <div align="center">Hi there, I'm Srikant 👋</div> <div align="right"> <a> <img src="https://komarev.com/ghpvc/?username=srikxcipher&style=flat-square&color=2F3437" alt="Profile Views"/></a> </div>
 
 <div align="center">
   <a href="#">
@@ -10,18 +10,158 @@
   </a>
 </div>
 
+
+
+<br>
+
+
+
+## <div align="center">Professional Overview</div>
+
+<table align="center">
+<tr>
+<td width="200"><b>Education:</b></td>
+<td>B.Tech CSE Student at <a href="https://www.soa.ac.in/iter/">ITER, Siksha 'O' Anusandhan University</a></td>
+</tr>
+<tr>
+<td><b>Role:</b></td>
+<td>Cloud Infrastructure & DevOps intern at <a href="https://www.sasefied.com">Sasefied</a></td>
+</tr>
+<tr>
+<td><b>Profile:</b></td>
+<td><i>A dedicated cloud engineering professional with expertise in designing and implementing robust infrastructure solutions. Focused on delivering scalable, secure, and automated systems that drive business efficiency and innovation.</i></td>
+</tr>
+</table>
+
+<br>
+
+## <div align="center">🔥 Current Project</div>
+
+<table align="center">
+<tr>
+<td>
+  <h3>IAmReadyAI</h3>
+  
+Leading the implementation of infrastructure solutions using Azure services.
+
+<div>
+  <img src="https://img.shields.io/badge/Azure-2F3437?style=flat-square&logo=microsoftazure" alt="Azure"/>
+  <img src="https://img.shields.io/badge/AKS-2F3437?style=flat-square&logo=kubernetes" alt="Azure Kubernetes Service"/>
+  <img src="https://img.shields.io/badge/Azure_Monitor-2F3437?style=flat-square&logo=microsoftazure" alt="Azure Monitor"/>
+</div>
+
+<div align="right"><i>Projected completion: Q2 2025</i></div>
+</td>
+</tr>
+</table>
+
+<br>
+
+## <div align="center"> Featured Projects</div>
+
 <div align="center">
-  <a href="https://www.soa.ac.in/iter/">
-    <img src="https://img.shields.io/badge/🎓_Education-ITER,_SOA_University-0A66C2?style=for-the-badge&logoColor=white" alt="Education"/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="20"/> Infrastructure as Code Platform
+
+Automated cloud infrastructure setup using Terraform and AWS CloudFormation, reducing deployment time by 70%.
+
+<div>
+  <img src="https://img.shields.io/badge/AWS-2F3437?style=flat-square&logo=amazon-aws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Terraform-2F3437?style=flat-square&logo=terraform" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/CloudFormation-2F3437?style=flat-square&logo=amazon-aws" alt="CloudFormation"/>
+</div>
+
+<div>
+  <a href="https://github.com/srikxcipher/terraform-aws-platform">
+    <img src="https://img.shields.io/badge/View_Project-2F3437?style=flat-square&logo=github" alt="View Code"/>
   </a>
-  <a href="https://www.techcorp.io">
-    <img src="https://img.shields.io/badge/🏢_Professional-TechCorp_Solutions-4285F4?style=for-the-badge&logoColor=white" alt="Current Organization"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live_Demo-2F3437?style=flat-square" alt="Live Demo"/>
   </a>
+</div>
+</td>
+<td align="center" width="33%">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Microservices Orchestration
+
+A Kubernetes-based platform for managing microservices with automated scaling and self-healing capabilities.
+
+<div>
+  <img src="https://img.shields.io/badge/Kubernetes-2F3437?style=flat-square&logo=kubernetes" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2F3437?style=flat-square&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Istio-2F3437?style=flat-square&logo=istio" alt="Istio"/>
+</div>
+
+<div>
+  <a href="https://github.com/srikxcipher/k8s-microservices">
+    <img src="https://img.shields.io/badge/View_Project-2F3437?style=flat-square&logo=github" alt="View Code"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live_Demo-2F3437?style=flat-square" alt="Live Demo"/>
+  </a>
+</div>
+</td>
+<td align="center" width="33%">
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Cloud Cost Optimizer
+
+An automated tool that analyzes AWS usage patterns and recommends optimizations, saving 30% on monthly cloud costs.
+
+<div>
+  <img src="https://img.shields.io/badge/Python-2F3437?style=flat-square&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/AWS_API-2F3437?style=flat-square&logo=amazon-aws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/MongoDB-2F3437?style=flat-square&logo=mongodb" alt="MongoDB"/>
+</div>
+
+<div>
+  <a href="https://github.com/srikxcipher/aws-cost-optimizer">
+    <img src="https://img.shields.io/badge/View_Project-2F3437?style=flat-square&logo=github" alt="View Code"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live_Demo-2F3437?style=flat-square" alt="Live Demo"/>
+  </a>
+</div>
+</td>
+</tr>
+</table>
 </div>
 
 <br>
 
-## <div align="center">AWS Certified Solutions Architect</div>
+## <div align="center">Connect With Me</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/srikantsnehit/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="@srikantsnehit"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/Srixk_" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/lollipop/48/twitterx.png" alt="twitterx" title="@Srixk_"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:pandasrikant365@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" title="pandasrikant365@gmail.com"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/srikxcipher" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" title="@srikxcipher"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord" title="Join my server"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="Follow me"/>
+  </a>
+</div>
+
+<br>
+<br>
+<br>
+
+## <div align="center">🏆 Certifications & Badges</div>
+
+
+<!--## <div align="center">AWS Certified Solutions Architect</div>
 
 <table align="center">
 <tr>
@@ -36,206 +176,15 @@
 Specialized in architecting scalable, highly available, and fault-tolerant systems on AWS platform
 </td>
 </tr>
-</table>
-
-## <div align="center">Professional Overview</div>
-
-<table align="center">
-<tr>
-<td width="200"><b>🎓 Education:</b></td>
-<td>B.Tech CSE Student at <a href="https://www.soa.ac.in/iter/">ITER, Siksha 'O' Anusandhan University</a></td>
-</tr>
-<tr>
-<td><b>🔒 Role:</b></td>
-<td>Cloud Infrastructure & DevOps Specialist at <a href="https://www.techcorp.io">TechCorp Solutions</a></td>
-</tr>
-<tr>
-<td><b>💼 Profile:</b></td>
-<td><i>A dedicated cloud engineering professional with expertise in designing and implementing robust infrastructure solutions. Focused on delivering scalable, secure, and automated systems that drive business efficiency and innovation.</i></td>
-</tr>
-</table>
-
-## <div align="center">🔥 Current Project</div>
-
-<table align="center">
-<tr>
-<td>
-  <h3>Multi-Region Disaster Recovery System</h3>
-  
-Leading the implementation of a robust disaster recovery solution using AWS services across multiple geographic regions to ensure 99.999% uptime for critical business applications.
-
-<div>
-  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat-square&logo=amazon-aws" alt="AWS EC2"/>
-  <img src="https://img.shields.io/badge/AWS-S3-569A31?style=flat-square&logo=amazon-aws" alt="AWS S3"/>
-  <img src="https://img.shields.io/badge/AWS-RDS-527FFF?style=flat-square&logo=amazon-aws" alt="AWS RDS"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Monitoring-CloudWatch-FF4F8B?style=flat-square&logo=amazon-aws" alt="CloudWatch"/>
-</div>
-
-<div align="right"><i>Projected completion: Q2 2025</i></div>
-</td>
-</tr>
-</table>
-
-## <div align="center">🏗️ Featured Projects</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="20"/> Infrastructure as Code Platform
-
-Automated cloud infrastructure setup using Terraform and AWS CloudFormation, reducing deployment time by 70%.
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-
-<div>
-  <a href="https://github.com/srikxcipher/terraform-aws-platform">
-    <img src="https://img.shields.io/badge/View_Code-24292e?style=for-the-badge&logo=github" alt="View Code"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-3fb950?style=for-the-badge&logo=none" alt="Live Demo"/>
-  </a>
-</div>
-</td>
-<td align="center" width="33%">
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Microservices Orchestration
-
-A Kubernetes-based platform for managing microservices with automated scaling and self-healing capabilities.
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-6933FF?style=flat-square&logo=istio&logoColor=white)
-
-<div>
-  <a href="https://github.com/srikxcipher/k8s-microservices">
-    <img src="https://img.shields.io/badge/View_Code-24292e?style=for-the-badge&logo=github" alt="View Code"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-3fb950?style=for-the-badge&logo=none" alt="Live Demo"/>
-  </a>
-</div>
-</td>
-<td align="center" width="33%">
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Cloud Cost Optimizer
-
-An automated tool that analyzes AWS usage patterns and recommends optimizations, saving 30% on monthly cloud costs.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_API-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-
-<div>
-  <a href="https://github.com/srikxcipher/aws-cost-optimizer">
-    <img src="https://img.shields.io/badge/View_Code-24292e?style=for-the-badge&logo=github" alt="View Code"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-3fb950?style=for-the-badge&logo=none" alt="Live Demo"/>
-  </a>
-</div>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- Social Media Connect Section -->
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/srikantsnehit/" target="_blank" title="Visit my LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Srixk_" target="_blank" title="Visit my Twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/" target="_blank" title="Join My Discord Channel">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.instagram.com/" target="_blank" title="Visit my Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/" target="_blank" title="Visit my Facebook">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</div>
-
-<!-- GitHub Stats Dashboard Section -->
-<h2 align="center">📊 GitHub Stats Dashboard</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srikxcipher&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikxcipher&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikxcipher&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srikxcipher&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikxcipher&theme=react-dark&hide_border=true" alt="Contribution Graph" width="100%"/>
-</div>
-
-## <div align="center">📝 Latest Blog Posts</div>
-
-<div align="center">
-<table>
-<tr>
-<td>
-
-### Implementing Zero-Trust Security in AWS Environments
-<div align="right"><i>Mar 15, 2025</i></div>
-
-A comprehensive guide to implementing the zero-trust security model in AWS cloud environments.
-
-[Read more →](https://your-blog-url.com)
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Cost Optimization Strategies for Multi-Cloud Deployments
-<div align="right"><i>Feb 28, 2025</i></div>
-
-Learn how to effectively manage costs across AWS, Azure, and GCP in a multi-cloud strategy.
-
-[Read more →](https://your-blog-url.com)
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Infrastructure as Code: Terraform vs CloudFormation
-<div align="right"><i>Jan 10, 2025</i></div>
-
-A detailed comparison of Terraform and CloudFormation for infrastructure automation.
-
-[Read more →](https://your-blog-url.com)
-</td>
-</tr>
-</table>
-</div>
-
-## <div align="center">🏆 Certifications & Badges</div>
+</table> -->
 
 <div align="center">
 <table>
 <tr>
 <td align="center">
   <a href="https://www.credly.com/badges/aws-certified-solutions-architect-associate" target="_blank" title="Verify AWS Certification">
-    <img width="120" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect Associate"/>
+    <img width="60" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect Associate"/>
     <br/>
-    <b>AWS Certified<br/>Solutions Architect</b>
   </a>
 </td>
 <td align="center">
@@ -257,10 +206,55 @@ A detailed comparison of Terraform and CloudFormation for infrastructure automat
 </table>
 </div>
 
-<!-- Footer Section -->
+<br>
+<br>
+
+## <div align="center">📝 Latest Blog Posts</div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+<table>
+<tr>
+<td>
+
+### Unlocking the Power of Automation with Ansible
+<div align="right"><i>Feb 16, 2025</i></div>
+
+A Beginner's Guide
+
+[Read more →](https://srikx.medium.com/)
+</td>
+</tr>
+
+<tr>
+<td>
+
+### IAM Decoded
+<div align="right"><i>Mar 14, 2025</i></div>
+
+How AWS Keeps Your Cloud Fortress Secure
+
+[Read more →](https://srikx.medium.com/)
+</td>
+</tr>
+
+<tr>
+<td>
+
+### From AWS Newbie to Certified Solutions Architect
+<div align="right"><i>March 16, 2025</i></div>
+
+How the AWS Emerging Talent Community Propelled My Cloud Journey
+
+[Read more →](https://srikx.medium.com/)
+</td>
+</tr>
+</table>
 </div>
+
+<br>
+<br>
+
+
 
 <div align="center">
   <picture>
@@ -270,6 +264,9 @@ A detailed comparison of Terraform and CloudFormation for infrastructure automat
   </picture>
 </div>
 
+
+
+<!-- Footer Section -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=srikxcipher&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
