@@ -25,7 +25,7 @@
 </tr>
 <tr>
 <td><b>Role:</b></td>
-<td>Cloud Infrastructure & DevOps intern at <a href="https://www.sasefied.com">Sasefied</a></td>
+<td>Cloud Infrastructure ex-intern at <a href="https://techplement.com">Techplement</a></td>
 </tr>
 <tr>
 <td><b>Profile:</b></td>
