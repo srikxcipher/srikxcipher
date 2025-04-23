@@ -51,12 +51,6 @@
 </td>
 </tr>
 
-<div>
-  <img src="https://img.shields.io/badge/Azure-2F3437?style=flat-square&logo=microsoftazure" alt="Azure"/>
-  <img src="https://img.shields.io/badge/AKS-2F3437?style=flat-square&logo=kubernetes" alt="Azure Kubernetes Service"/>
-  <img src="https://img.shields.io/badge/Azure_Monitor-2F3437?style=flat-square&logo=microsoftazure" alt="Azure Monitor"/>
-</div>
-
 <div align="right"><i>Projected completion: Q2 2025</i></div>
 </td>
 </tr>
