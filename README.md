@@ -40,9 +40,16 @@
 <table align="center">
 <tr>
 <td>
-  <h3>IAmReadyAI</h3>
+  <h3>Implementing Zero Down-Time Deployments in k8s</h3>
   
-Leading the implementation of infrastructure solutions using Azure services.
+ Exploring and implementing advance deployment techniques such as **rolling updates, blue-green deployments, and canary releases** to achieve seamless transitions between application versions.
+  
+- Focused on **maintaining high availability and reliability** by gradually shifting traffic to the new version while monitoring performance and error rates.  
+- Utilized Kubernetes’ native tools and concepts like **ReplicaSets, Services, and ConfigMaps** to enable dynamic and smooth rollout processes.  
+- Implemented robust **observability and monitoring practices** (e.g., Prometheus, Grafana) to detect potential issues in real-time and ensure rollback mechanisms were in place for emergency scenarios.   
+- Continuously refined deployment processes based on feedback and evolving project needs, aligning closely with **DevOps principles** of agility and scalability.
+</td>
+</tr>
 
 <div>
   <img src="https://img.shields.io/badge/Azure-2F3437?style=flat-square&logo=microsoftazure" alt="Azure"/>
