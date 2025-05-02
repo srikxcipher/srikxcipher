@@ -76,12 +76,12 @@ Automated cloud infrastructure setup using Terraform and AWS CloudFormation, red
 </div>
 
 <div>
-  <a href="https://github.com/srikxcipher/terraform-aws-platform">
+ <!-- <a href="https://github.com/srikxcipher/terraform-aws-platform">
     <img src="https://img.shields.io/badge/View_Project-2F3437?style=flat-square&logo=github" alt="View Code"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Live_Demo-2F3437?style=flat-square" alt="Live Demo"/>
-  </a>
+  </a>-->
 </div>
 </td>
 <td align="center" width="33%">
@@ -97,12 +97,12 @@ A Kubernetes-based platform for managing microservices with automated scaling an
 </div>
 
 <div>
-  <a href="https://github.com/srikxcipher/k8s-microservices">
+  <!--<a href="https://github.com/srikxcipher/k8s-microservices">
     <img src="https://img.shields.io/badge/View_Project-2F3437?style=flat-square&logo=github" alt="View Code"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Live_Demo-2F3437?style=flat-square" alt="Live Demo"/>
-  </a>
+  </a>-->
 </div>
 </td>
 <td align="center" width="33%">
@@ -118,12 +118,12 @@ An automated tool that analyzes AWS usage patterns and recommends optimizations,
 </div>
 
 <div>
-  <a href="https://github.com/srikxcipher/aws-cost-optimizer">
+  <!--<a href="https://github.com/srikxcipher/aws-cost-optimizer">
     <img src="https://img.shields.io/badge/View_Project-2F3437?style=flat-square&logo=github" alt="View Code"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Live_Demo-2F3437?style=flat-square" alt="Live Demo"/>
-  </a>
+  --></a>
 </div>
 </td>
 </tr>
