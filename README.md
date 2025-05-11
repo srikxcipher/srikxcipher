@@ -194,7 +194,7 @@ Specialized in architecting scalable, highly available, and fault-tolerant syste
   </a>
 </td>
 <td align="center">
-  <a href="https://api.badgr.io/public/assertions/Gy6PeBxHQW-NGqS8xkm4xw?identity__email=pandasrikant365%40gmail.com" target="_blank" title="Verify badge details">
+  <a href="[https://api.badgr.io/public/assertions/Gy6PeBxHQW-NGqS8xkm4xw?identity__email=pandasrikant365%40gmail.com](https://drive.google.com/file/d/1n-D8SATmrxb2giBsFl5xu4fFYy9xXice/view?usp=sharing)" target="_blank" title="Verify badge details">
     <img width="60" src="Assets/postman-output.svg" alt="Postman-API-Student-Expert"/>
   </a>
 </td>
