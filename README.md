@@ -183,7 +183,7 @@ Specialized in architecting scalable, highly available, and fault-tolerant syste
 <table>
 <tr>
 <td align="center">
-  <a href="https://www.credly.com/badges/aws-certified-solutions-architect-associate" target="_blank" title="Verify AWS Certification">
+  <a href="https://www.credly.com/badges/43e3f13c-eb60-48c0-8a07-a6ec2d0b22c7" target="_blank" title="Verify AWS Certification">
     <img width="60" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certified Solutions Architect Associate"/>
     <br/>
   </a>
