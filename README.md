@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=4FB3FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome+to+My+Professional+Space;DevOps+Architecture+Specialist;Cloud+Infrastructure+Expert;Automation+%26+Innovation+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=4FB3FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome+to+My+Professional+Space;DevOps+Engineering;Transforming+Cloud+Infrastructure+;Driving+Scalable+Solutions;Automation+%26+Innovation+Expert" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,7 +35,7 @@
 
 <br>
 
-## <div align="center">🔥 Current Project</div>
+## <div align="center">Current Project</div>
 
 <table align="center">
 <tr>
@@ -159,7 +159,7 @@ An automated tool that analyzes AWS usage patterns and recommends optimizations,
 <br>
 <br>
 
-## <div align="center">🏆 Certifications & Badges</div>
+## <div align="center">Certifications & Badges</div>
 
 
 <!--## <div align="center">AWS Certified Solutions Architect</div>
@@ -210,7 +210,7 @@ Specialized in architecting scalable, highly available, and fault-tolerant syste
 <br>
 <br>
 
-## <div align="center">📝 Latest Blog Posts</div>
+## <div align="center">Latest Blog Posts</div>
 
 <div align="center">
 <table>
