@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td><b>Profile:</b></td>
-<td><i>A dedicated intern with expertise in designing and implementing robust infrastructure solutions. Focused on delivering scalable, secure, and automated systems that drive business efficiency and innovation.</i></td>
+<td><i>Holding expertise in designing and implementing robust infrastructure solutions, with a focus on delivering scalable, secure, and automated systems that drive business efficiency and innovation.</i></td>
 </tr>
 </table>
 
