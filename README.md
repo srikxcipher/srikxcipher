@@ -25,11 +25,11 @@
 </tr>
 <tr>
 <td><b>Role:</b></td>
-<td>Cloud Infrastructure ex-intern at <a href="https://techplement.com">Techplement</a></td>
+<td>DevOps Engineer Intern at <a href="https://iamreadyai.com">Sasefied</a></td>
 </tr>
 <tr>
 <td><b>Profile:</b></td>
-<td><i>A dedicated cloud engineering intern with expertise in designing and implementing robust infrastructure solutions. Focused on delivering scalable, secure, and automated systems that drive business efficiency and innovation.</i></td>
+<td><i>A dedicated intern with expertise in designing and implementing robust infrastructure solutions. Focused on delivering scalable, secure, and automated systems that drive business efficiency and innovation.</i></td>
 </tr>
 </table>
 
