@@ -25,7 +25,7 @@
 </tr>
 <tr>
 <td><b>Role:</b></td>
-<td>DevOps Engineer Intern at <a href="https://iamreadyai.com">Sasefied</a></td>
+<td>Ex-DevOps Engineer Intern at <a href="https://iamreadyai.com">Sasefied</a></td>
 </tr>
 <tr>
 <td><b>Profile:</b></td>
