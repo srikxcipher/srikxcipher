@@ -25,7 +25,7 @@
 </tr>
 <tr>
 <td><b>Role:</b></td>
-<td>Ex-DevOps Engineer Intern at <a href="https://iamreadyai.com">Sasefied</a></td>
+<td>DevOps Engineer Intern at <a href="https://facets.cloud">Facets.cloud</a></td>
 </tr>
 <tr>
 <td><b>Profile:</b></td>
@@ -51,7 +51,7 @@
 </td>
 </tr>
 
-<div align="right"><i>Projected completion: Q2 2025</i></div>
+<!-- <div align="right"><i>Projected completion: Q2 2025</i></div> -->
 </td>
 </tr>
 </table>
