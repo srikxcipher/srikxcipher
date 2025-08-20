@@ -16,7 +16,7 @@
 
 
 
-## <div align="center">Professional Overview</div>
+## <div align="center">Overview</div>
 
 <table align="center">
 <tr>
